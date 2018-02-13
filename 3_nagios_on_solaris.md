@@ -1,0 +1,1 @@
+# Nagios on Solaris
